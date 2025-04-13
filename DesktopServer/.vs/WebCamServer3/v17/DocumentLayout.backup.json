@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\us000\\Desktop\\WebCamServer3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92E9E039-7697-494F-936D-B6D3F8C06597}|WebCamServer3\\WebCamServer3.csproj|c:\\users\\us000\\desktop\\webcamserver3\\webcamserver3\\hubs\\webrtchub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92E9E039-7697-494F-936D-B6D3F8C06597}|WebCamServer3\\WebCamServer3.csproj|solutionrelative:webcamserver3\\hubs\\webrtchub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E9E039-7697-494F-936D-B6D3F8C06597}|WebCamServer3\\WebCamServer3.csproj|c:\\users\\us000\\desktop\\webcamserver3\\webcamserver3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92E9E039-7697-494F-936D-B6D3F8C06597}|WebCamServer3\\WebCamServer3.csproj|solutionrelative:webcamserver3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E9E039-7697-494F-936D-B6D3F8C06597}|WebCamServer3\\WebCamServer3.csproj|c:\\users\\us000\\desktop\\webcamserver3\\webcamserver3\\utils\\logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92E9E039-7697-494F-936D-B6D3F8C06597}|WebCamServer3\\WebCamServer3.csproj|solutionrelative:webcamserver3\\utils\\logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logs.cs",
+              "DocumentMoniker": "C:\\Users\\us000\\Desktop\\WebCamServer3\\WebCamServer3\\Utils\\Logs.cs",
+              "RelativeDocumentMoniker": "WebCamServer3\\Utils\\Logs.cs",
+              "ToolTip": "C:\\Users\\us000\\Desktop\\WebCamServer3\\WebCamServer3\\Utils\\Logs.cs",
+              "RelativeToolTip": "WebCamServer3\\Utils\\Logs.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAywBQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T09:37:47.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebRtcHub.cs",
+              "DocumentMoniker": "C:\\Users\\us000\\Desktop\\WebCamServer3\\WebCamServer3\\Hubs\\WebRtcHub.cs",
+              "RelativeDocumentMoniker": "WebCamServer3\\Hubs\\WebRtcHub.cs",
+              "ToolTip": "C:\\Users\\us000\\Desktop\\WebCamServer3\\WebCamServer3\\Hubs\\WebRtcHub.cs",
+              "RelativeToolTip": "WebCamServer3\\Hubs\\WebRtcHub.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T22:51:40.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\us000\\Desktop\\WebCamServer3\\WebCamServer3\\Program.cs",
+              "RelativeDocumentMoniker": "WebCamServer3\\Program.cs",
+              "ToolTip": "C:\\Users\\us000\\Desktop\\WebCamServer3\\WebCamServer3\\Program.cs",
+              "RelativeToolTip": "WebCamServer3\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T12:27:00.566Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
